@@ -1,6 +1,6 @@
 ---
 title: 不要再浪費時間尋找內容
-description: 成為技術嫻熟的作者，深入探討AEM Sites和Media Library管理UI，並提供提高日常效率的秘訣和技巧
+description: 透過AEM Sites和Media Library的深入指南，加上簡化日常工作流程的實用秘訣，提升您的撰寫能力。
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -12,22 +12,22 @@ version: Cloud Service
 type: Event
 kt: 8937
 exl-id: 080d9491-4d0a-4336-a4e0-a82d7bf5a278
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] 基本知識
 
-在這個5部分的網路研討會系列中，瞭解如何在Adobe Experience Manager中建立豐富且吸引人的客戶體驗。 我們將從內容製作的組成要素開始，同時向您介紹基本概念和操作。 這將包括網站管理功能以及在AEM內處理數位資產的基本知識。 在系列的後半部分，探索可協助您重複使用內容並跨管道提供內容，以節省時間並提高效率的功能。
+在這個5部分的網路研討會系列中，瞭解如何在Adobe Experience Manager中建立豐富且吸引人的客戶體驗。 此系列從內容製作的組成要素開始，同時向您介紹基本概念和操作。 其中包含網站管理功能及在AEM中處理數位資產的基本知識。 在系列的後半部分，探索可協助您重複使用內容並跨管道提供內容，以節省時間並提高效率的功能。
 
 ## 不要再浪費時間尋找內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-成為技術嫻熟的作者，深入探討AEM Sites和Media Library管理UI，並提供提高日常效率的秘訣與技巧。
+透過AEM Sites和Media Library管理UI，配備有效策略以提高日常生產力，進而提升您的撰寫技能。
 
 ## 系列錄製
 

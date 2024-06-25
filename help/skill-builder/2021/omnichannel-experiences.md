@@ -12,22 +12,22 @@ version: Cloud Service
 type: Event
 kt: 8935
 exl-id: fef99f2a-8480-4c64-8dbb-a120d203b498
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] 基本知識
 
-在這個5部分的網路研討會系列中，瞭解如何在Adobe Experience Manager中建立豐富且吸引人的客戶體驗。 我們將從內容製作的組成要素開始，同時向您介紹基本概念和操作。 這將包括網站管理功能以及在AEM內處理數位資產的基本知識。 在系列的後半部分，探索可協助您重複使用內容並跨管道提供內容，以節省時間並提高效率的功能。
+在這個5部分的網路研討會系列中，瞭解如何在Adobe Experience Manager中建立豐富且吸引人的客戶體驗。 此系列從內容製作的組成要素開始，同時向您介紹基本概念和操作。 其中包含網站管理功能及在AEM中處理數位資產的基本知識。 在系列的後半部分，探索可協助您重複使用內容並跨管道提供內容，以節省時間並提高效率的功能。
 
 ## 隨處皆可使用的內容 — 讓全通路體驗成為現實
 
 >[!VIDEO](https://video.tv.adobe.com/v/336982/?quality=12&learn=on&hidetitle=true)
 
-瞭解如何從一個中央環境以最佳方式跨廣泛的管道提供體驗。
+瞭解如何從一個中央環境跨廣泛的管道以最佳方式提供體驗。
 
 ## 系列錄製
 
