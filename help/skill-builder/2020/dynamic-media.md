@@ -19,13 +19,13 @@ ht-degree: 3%
 
 ---
 
-# [!DNL Dynamic Media]-Adobe [!DNL Experience Manager Assets] 數列
+# [!DNL Dynamic Media]-Adobe[!DNL Experience Manager Assets]序列
 
-利用這個由五部分組成的網路研討會系列，建立您的知識庫，並最大化您的Adobe投資 [!DNL Experience Manager Assets]. 探索或調整您的Adobe [!DNL Experience Manager Assets] 專業知識讓您深入瞭解五項基本功能，快速掌握熟練程度。 Adobe專家會檢閱基本知識，並提供進階深入分析，為您提供可立即實施的可操作後續步驟。
+使用這個由五部分組成的網路研討會系列來建立您的知識庫，並最大化您對Adobe[!DNL Experience Manager Assets]的投資。 探索或完善您的Adobe[!DNL Experience Manager Assets]專業知識，並專注深入探究其五項基本功能 — 您快速掌握熟練程度。 Adobe專家會檢閱基本知識，並提供進階深入分析，為您提供可立即實施的可操作後續步驟。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 
-使用自動輸出所有管道和熒幕的資產 [!DNL Dynamic Media].
+使用[!DNL Dynamic Media]自動輸出所有管道和熒幕的資產。
 
 ## 資源
 

@@ -9,9 +9,9 @@ ht-degree: 4%
 
 ---
 
-# [!DNL Experience Manager] Skill Builder錄製
+# [!DNL Experience Manager]個技能培養錄製
 
-歡迎使用Adobe [!DNL Experience Manager] Skill Builder錄製首頁包含錄製網路研討會，旨在建立您的知識基礎並最大化您的Adobe投資 [!DNL Experience Manager].
+歡迎使用Adobe[!DNL Experience Manager] Skill Builder錄製首頁，其中包含錄製網路研討會，旨在建立您的知識庫，並最大化您對Adobe[!DNL Experience Manager]的投資。
 
 ## 新增功能
 
@@ -27,7 +27,7 @@ ht-degree: 4%
     </a>
     </div>
     <p>
-    <em>[!DNL Asset Link] 是您與Adobe Creative Cloud的原生連線。</em>
+    <em>[!DNL Asset Link]是您與Adobe Creative Cloud的原生連線。</em>
     <p>
   </td>
   <td>
@@ -40,7 +40,7 @@ ht-degree: 4%
     </a>
     </div>
     <p>
-    <em>輕鬆與內部和外部團隊共用資產。</em>
+    <em>與內部和外部團隊輕鬆共用資產。</em>
     </p>
   </td>
   <td>
@@ -61,4 +61,4 @@ ht-degree: 4%
 
 >[!TIP]
 >
->**檢視左側導覽，瞭解之前技能培養活動中的錄影**.
+>**檢視左側導覽，瞭解先前技能培養活動錄製的情形**。
