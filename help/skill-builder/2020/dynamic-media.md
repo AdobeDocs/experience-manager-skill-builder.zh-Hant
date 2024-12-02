@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Dynamic Media]"
+title: '[!DNL Dynamic Media]'
 description: 自動輸出所有管道和熒幕的資產
 solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
 product: experience manager

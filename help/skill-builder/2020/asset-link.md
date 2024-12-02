@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Asset Link]"
+title: '[!DNL Asset Link]'
 description: 您與Adobe Creative Cloud的原生連線。
 solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
 product: experience manager
