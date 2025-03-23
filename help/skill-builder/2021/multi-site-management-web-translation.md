@@ -8,20 +8,20 @@ feature: Multi Site Manager
 topic: Localization
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 8936
 exl-id: 68c48c94-1878-4bdb-af7d-d6e4f88f9315
-source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-# Adobe[!DNL Experience Manager Sites]基本知識
+# Adobe [!DNL Experience Manager Sites]基本知識
 
-在這個5部分的網路研討會系列中，瞭解如何在Adobe Experience Manager中建立豐富且吸引人的客戶體驗。 此系列從內容製作的組成要素開始，同時向您介紹基本概念和操作。 其中包含網站管理功能及在AEM中處理數位資產的基本知識。 在系列的後半部分，探索可協助您重複使用內容並跨管道提供內容，以節省時間並提高效率的功能。
+在這個5部分的網路研討會系列中，瞭解如何在Adobe Experience Manager中建立豐富且吸引人的客戶體驗。 此系列從內容製作的組成要素開始，同時向您介紹基本概念和操作。 內容包含網站管理功能及在AEM中處理數位資產的基本知識。 在系列的後半部分，探索可協助您重複使用內容並跨管道提供內容，以節省時間並提高效率的功能。
 
 ## 使用Adobe Experience Manager走向全球
 

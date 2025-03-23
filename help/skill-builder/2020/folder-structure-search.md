@@ -8,20 +8,20 @@ feature: Asset Management
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7338
 exl-id: 596b3f82-405c-47bf-af63-55f72bd8634e
-source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 2%
 
 ---
 
-# 資料夾結構與搜尋 — Adobe[!DNL Experience Manager Assets]序列
+# 資料夾結構與搜尋 — Adobe [!DNL Experience Manager Assets]系列
 
-使用這個由五部分組成的網路研討會系列來建立您的知識庫，並最大化您對Adobe[!DNL Experience Manager Assets]的投資。 無論您是Adobe[!DNL Experience Manager Assets]的新手還是精進技能，深入探究五個關鍵領域是提升您專業知識的完美方式。 Adobe專家會檢閱基本知識，並提供進階深入分析，為您提供可立即實施的可操作後續步驟。
+使用這個由五部分組成的網路研討會系列來建立您的知識庫，並最大化您對Adobe [!DNL Experience Manager Assets]的投資。 無論您是Adobe [!DNL Experience Manager Assets]的新手還是精進技能，深入探究五個關鍵領域是提升您專業知識的完美方式。 Adobe專家會檢閱基本資訊，並提供進階深入分析，為您提供可立即實施的可行後續步驟。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332135/?quality=12&learn=on&hidetitle=true)
 

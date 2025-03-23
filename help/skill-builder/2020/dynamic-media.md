@@ -8,20 +8,20 @@ feature: "[!DNL Dynamic Media Classic]"
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7341
 exl-id: 8aebf75a-a17b-4d06-9e50-b2ab742fe790
-source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 3%
 
 ---
 
-# [!DNL Dynamic Media]-Adobe[!DNL Experience Manager Assets]序列
+# [!DNL Dynamic Media]- Adobe [!DNL Experience Manager Assets]系列
 
-使用這個由五部分組成的網路研討會系列來建立您的知識庫，並最大化您對Adobe[!DNL Experience Manager Assets]的投資。 探索或完善您的Adobe[!DNL Experience Manager Assets]專業知識，並專注深入探究其五項基本功能 — 您快速掌握熟練程度。 Adobe專家會檢閱基本知識，並提供進階深入分析，為您提供可立即實施的可操作後續步驟。
+使用這個由五部分組成的網路研討會系列來建立您的知識庫，並最大化您對Adobe [!DNL Experience Manager Assets]的投資。 探索或完善您的Adobe [!DNL Experience Manager Assets]專業知識，並專注深入探究其五個基本功能 — 您快速掌握熟練程度。 Adobe專家會檢閱基本資訊，並提供進階深入分析，為您提供可立即實施的可行後續步驟。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 
