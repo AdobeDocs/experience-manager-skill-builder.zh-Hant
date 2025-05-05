@@ -29,12 +29,12 @@ ht-degree: 3%
 
 ## 資源
 
-*[使用中繼資料結構描述來管理資產中繼資料](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/authoring/metadata)
-*[擴充中繼資料結構](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-schemas)
-*[使用階層式中繼資料最佳化中繼資料編寫](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
-*[使用中繼資料設定檔自動將中繼資料套用至資產](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-profiles)
-*[AEM中繼資料結構](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
-*[管理資產中繼資料](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
+*[使用中繼資料結構描述來管理資產中繼資料](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/assets/authoring/metadata)
+*[擴充中繼資料結構](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/assets/configuring/metadata-schemas)
+*[使用階層式中繼資料最佳化中繼資料編寫](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
+*[使用中繼資料設定檔自動將中繼資料套用至資產](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/assets/configuring/metadata-profiles)
+*[AEM中繼資料結構](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
+*[管理資產中繼資料](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
 
 ## 系列錄製
 
