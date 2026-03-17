@@ -32,7 +32,7 @@ ht-degree: 15%
 * [Adobe [!DNL Asset Link] 影片](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
 * [適用於Adobe XD的[!DNL Asset Link]](https://helpx.adobe.com/tw/enterprise/using/adobe-asset-link-for-xd.html)
 * [設定Adobe [!DNL Asset Link]的 [!DNL AEM Assets] 6.5和6.4](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [設定Adobe [!DNL Asset Link]的 [!DNL AEM as a Cloud Service] ](https://helpx.adobe.com/tw/enterprise/using/configure-aem-assets-for-asset-link.html)
+* [設定Adobe [!DNL Asset Link]的 [!DNL AEM as a Cloud Service] &#x200B;](https://helpx.adobe.com/tw/enterprise/using/configure-aem-assets-for-asset-link.html)
 
 ## 系列錄製
 
