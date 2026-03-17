@@ -1,20 +1,22 @@
 ---
 cloud: Experience Cloud
-solution: "[!DNL Experience Manager]"
-feature-set: "[!DNL Experience Manager], [!DNL Experience Manager Assets], [!DNL Experience Manager Cloud Manager], [!DNL Experience Manager Sites]"
+solution: Experience Manager
+feature-set: Experience Manager, Experience Manager Assets, Experience Manager Cloud Manager, Experience Manager Sites
+landing-page-name: experience-manager
+landing-page-breadcrumb-title: AEM
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/experience-manager-skill-builder.zh-Hant
+git-repo: https://github.com/AdobeDocs/experience-manager-skill-builder.en
 index: true
-source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
+source-git-commit: 37b06cb96ba679d7f65a774d9fe59eeb6109775b
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 97%
+source-wordcount: '46'
+ht-degree: 0%
 
 ---
 
 
 # 內部使用的中繼資料
 
-metadata.md 檔案包含存放庫層級中繼資料，這些中繼資料會傳遞至存放庫中的使用手冊 TOC.md 檔案。如果想要變更任何使用手冊的 metadata.md 內容，請在 TOC.md 檔案中變更。
+metadata.md檔案包含存放庫層級中繼資料，這些中繼資料會傳遞至存放庫中的使用手冊TOC.md檔案。 如果您想要變更任何使用手冊的metadata.md內容，請在任何TOC.md檔案中進行變更。

@@ -1,7 +1,7 @@
 ---
 title: 輕鬆管理不斷變化的內容
 description: 瞭解Experience Manager作者共同作業工具
-solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
 feature: Authoring
@@ -12,9 +12,9 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 8934
 exl-id: 50981e5d-fd1f-4ab8-9b58-d4b8df69d089
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---

@@ -1,10 +1,10 @@
 ---
 title: 不要再浪費時間尋找內容
 description: 透過AEM網站和媒體庫的深入指南，加上簡化日常工作流程的實用秘訣，提升您的撰寫能力。
-solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
-feature: Adobe [!DNL Asset Link]
+feature: Adobe Asset Link
 topic: Content Management
 role: User
 level: Beginner
@@ -12,9 +12,9 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 8937
 exl-id: 080d9491-4d0a-4336-a4e0-a82d7bf5a278
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: 37b06cb96ba679d7f65a774d9fe59eeb6109775b
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---

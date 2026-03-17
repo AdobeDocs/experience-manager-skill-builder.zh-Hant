@@ -1,10 +1,10 @@
 ---
 title: '[!DNL Asset Link]'
 description: 您與Adobe Creative Cloud的原生連線。
-solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
-feature: Adobe [!DNL Asset Link]
+feature: Adobe Asset Link
 topic: Content Management
 role: User
 level: Beginner
@@ -12,10 +12,10 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7342
 exl-id: feadb1e0-ea1a-42ab-abf8-9791be46796e
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: 37b06cb96ba679d7f65a774d9fe59eeb6109775b
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 5%
+source-wordcount: '145'
+ht-degree: 15%
 
 ---
 
@@ -29,14 +29,14 @@ ht-degree: 5%
 
 ## 資源
 
-* [Adobe [!DNL Asset Link] 影片](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
-* 適用於Adobe XD[&#128279;](https://helpx.adobe.com/tw/enterprise/using/adobe-asset-link-for-xd.html)的[!DNL Asset Link] 
-* [設定Adobe的 [!DNL AEM Assets] 6.5和6.4 [!DNL Asset Link]](https://helpx.adobe.com/tw/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [為Adobe [!DNL Asset Link]設定 [!DNL AEM as a Cloud Service] &#x200B;](https://helpx.adobe.com/tw/enterprise/using/configure-aem-assets-for-asset-link.html)
+* [Adobe [!DNL Asset Link] 影片](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
+* [適用於Adobe XD的[!DNL Asset Link]](https://helpx.adobe.com/tw/enterprise/using/adobe-asset-link-for-xd.html)
+* [設定Adobe [!DNL Asset Link]的 [!DNL AEM Assets] 6.5和6.4](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [設定Adobe [!DNL Asset Link]的 [!DNL AEM as a Cloud Service] ](https://helpx.adobe.com/tw/enterprise/using/configure-aem-assets-for-asset-link.html)
 
 ## 系列錄製
 
 * [Brand Portal](brand-portal.md)
 * [[!DNL Dynamic Media]](dynamic-media.md)
 * [檔案夾結構和搜尋](folder-structure-search.md)
-* [中繼資料](metadata.md)
+* [後設資料](metadata.md)

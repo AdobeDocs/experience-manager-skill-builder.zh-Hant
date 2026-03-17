@@ -1,7 +1,7 @@
 ---
 title: 檔案夾結構和搜尋
 description: 設定及使用DAM的基本知識
-solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
 feature: Asset Management
@@ -12,10 +12,10 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7338
 exl-id: 596b3f82-405c-47bf-af63-55f72bd8634e
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 2%
+source-wordcount: '217'
+ht-degree: 1%
 
 ---
 
@@ -29,17 +29,17 @@ ht-degree: 2%
 
 ## 資源
 
-* [[!DNL AEM Assets] 使用手冊](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/assets/assets)
-* [正在設定您的 [!DNL AEM Assets] 資料夾結構](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/assets/configuring/baseline-folders)
-* [設定 [!DNL AEM Assets] 資料夾許可權](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/assets/configuring/baseline-permissions)
-* [使用集合來組織和共用資產](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/assets/search-and-discovery/collections)
-* [透過機器學習尋找視覺上類似的資產](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/assets/search-and-discovery/search)
-* [使用動態搜尋Facet取得精確且精確的搜尋結果](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/assets/search-and-discovery/search)
-* [進階全文檢索搜尋語法](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-64/assets/using/gql-search#using)
+* [[!DNL AEM Assets]使用手冊](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/assets)
+* [正在設定您的 [!DNL AEM Assets] 資料夾結構](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
+* [設定 [!DNL AEM Assets] 檔案夾許可權](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-permissions)
+* [使用收藏集來組織和共用資產](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/collections)
+* [透過機器學習尋找視覺上類似的資產](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [使用動態搜尋Facet取得精確且精確的搜尋結果](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [進階全文檢索搜尋語法](https://experienceleague.adobe.com/en/docs/experience-manager-64/assets/using/gql-search#using)
 
 ## 系列錄製
 
 * [[!DNL Asset Link]](asset-link.md)
 * [Brand Portal](brand-portal.md)
 * [[!DNL Dynamic Media]](dynamic-media.md)
-* [中繼資料](metadata.md)
+* [後設資料](metadata.md)

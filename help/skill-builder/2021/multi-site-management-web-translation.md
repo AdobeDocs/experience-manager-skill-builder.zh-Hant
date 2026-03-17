@@ -1,7 +1,7 @@
 ---
 title: 使用Adobe Experience Manager走向全球
 description: 學習多網站管理的基礎和網頁內容翻譯，並附上如何設計全球網站結構的秘訣。
-solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
 feature: Multi Site Manager
@@ -12,9 +12,9 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 8936
 exl-id: 68c48c94-1878-4bdb-af7d-d6e4f88f9315
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
