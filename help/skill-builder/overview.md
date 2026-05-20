@@ -3,7 +3,8 @@ title: 技能培養概觀
 description: 網路研討會影片系列，可協助您建立知識庫，並將Adobe Experience Manager投資效益最大化
 exl-id: 2aa648cc-6a44-4d1d-98ab-a351abc80b6b
 TQID: https://experienceleague.adobe.com/DBs8CswgvdKhcDyp2fD3ufBqFK4ts8VAsF7QPasXg9o
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
 source-git-commit: 3fdd2bfc409767ca32451c865beb7919f95a7c2f
 workflow-type: tm+mt
 source-wordcount: 174
