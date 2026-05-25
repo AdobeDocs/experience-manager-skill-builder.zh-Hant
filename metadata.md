@@ -10,7 +10,7 @@ landing-page-breadcrumb-title: AEM
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/experience-manager-skill-builder.en
+git-repo: https://github.com/AdobeDocs/experience-manager-skill-builder.zh-Hant
 index: true
 source-git-commit: feec99a9f4b5b2a36e593c5dbfb4f923955657cf
 workflow-type: tm+mt
