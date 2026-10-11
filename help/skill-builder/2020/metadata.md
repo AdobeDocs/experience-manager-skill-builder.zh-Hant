@@ -12,13 +12,22 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7339
 exl-id: 35b85f97-ffe4-43f9-98ae-dae0d36bae91
-source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 754371f13e13449e2d933f32e840b3372918b465
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 2%
-
 ---
-
 # 中繼資料 — Adobe [!DNL Experience Manager Assets]系列
 
 使用這個由五部分組成的網路研討會系列來建立您的知識庫，並最大化您對Adobe [!DNL Experience Manager Assets]的投資。 這個工作階段是新手與經驗豐富的使用者的完美選擇，可全面探討Adobe [!DNL Experience Manager Assets]的五大基本功能，以達成解決方案。 Adobe專家會檢閱基本資訊，並提供進階深入分析，為您提供可立即實施的可行後續步驟。
@@ -29,12 +38,12 @@ ht-degree: 2%
 
 ## 資源
 
-*[使用中繼資料結構描述來管理資產中繼資料](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/assets/authoring/metadata)
-*[擴充中繼資料結構](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/assets/configuring/metadata-schemas)
-*[使用階層式中繼資料最佳化中繼資料編寫](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
-*[使用中繼資料設定檔自動將中繼資料套用至資產](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/assets/configuring/metadata-profiles)
-*[AEM中繼資料結構](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
-*[管理資產中繼資料](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
+*[使用中繼資料結構描述來管理資產中繼資料](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/authoring/metadata)
+*[擴充中繼資料結構](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-schemas)
+*[使用階層式中繼資料最佳化中繼資料編寫](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
+*[使用中繼資料設定檔自動將中繼資料套用至資產](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-profiles)
+*[AEM中繼資料結構](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
+*[管理資產中繼資料](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
 
 ## 系列錄製
 

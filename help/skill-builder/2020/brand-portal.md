@@ -12,13 +12,22 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7340
 exl-id: 9070f559-b364-4d8f-a60a-1bda65fc4ca1
-source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 754371f13e13449e2d933f32e840b3372918b465
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 22%
-
 ---
-
 # Brand Portal - Adobe [!DNL Experience Manager Assets]系列
 
 使用這個由五部分組成的網路研討會系列來建立您的知識庫，並最大化您對Adobe [!DNL Experience Manager Assets]的投資。 無論您是初學者或經驗豐富，都能增強您對Adobe [!DNL Experience Manager Assets]的掌握。 透過本全面指南，深入探討平台的五個重要層面。 Adobe專家會檢閱基本資訊，並提供進階深入分析，為您提供可立即實施的可行後續步驟。
@@ -30,7 +39,7 @@ Brand Portal可讓您輕鬆與內部和外部團隊共用資產。
 ## 資源
 
 * [[!UICONTROL Brand Portal]的概觀](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-brand-portal/using/introduction/brand-portal)
-* [[!UICONTROL Brand Portal]影片](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
+* [[!UICONTROL Brand Portal]影片](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
 * [[!DNL Asset]來源](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
 
 ## 系列錄製
