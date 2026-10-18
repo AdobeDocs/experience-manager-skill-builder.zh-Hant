@@ -3,6 +3,7 @@ cloud: Experience Cloud
 solution: Experience Manager
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: "Experience Manager"
 usetq: true
 feature-set: Experience Manager, Experience Manager Assets, Experience Manager Cloud Manager, Experience Manager Sites
 landing-page-name: experience-manager
@@ -14,11 +15,9 @@ git-repo: https://github.com/AdobeDocs/experience-manager-skill-builder.zh-Hant
 index: true
 source-git-commit: feec99a9f4b5b2a36e593c5dbfb4f923955657cf
 workflow-type: tm+mt
-source-wordcount: 46
+source-wordcount: '39'
 ht-degree: 0%
-
 ---
-
 
 # 內部使用的中繼資料
 
